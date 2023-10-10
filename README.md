@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Escobar</h1>
 <h3 align="center">A passionate engineer working on multiple fields</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Santiago-Escobar&label=Profile%20views&color=0e75b6&style=flat" alt="Santiago-Escobar" /> </p>
-
 - 🔭 I’m currently working on [Resmark Systems](http://resmarksystems.com/)
 
 - 🌱 I’m currently learning **MLOps**
